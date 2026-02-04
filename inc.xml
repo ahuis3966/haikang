@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<option>
+  <APPKey>20287305</APPKey>
+  <APPSecret>jMuR43SxnBts2GSu7fwF</APPSecret>
+  <IP>192.168.1.254</IP>
+  <Socket>443</Socket>
+  <Https>true</Https>
+  <connectionString>server=8.137.23.40;database=meichang;uid=meichang;password=ejte8XcwsfwW8YF2;</connectionString>
+  <eventDest>https://empm.zwon.net/prod-api/af/event</eventDest><!--海康订阅消息推送地址-->
+</option>
